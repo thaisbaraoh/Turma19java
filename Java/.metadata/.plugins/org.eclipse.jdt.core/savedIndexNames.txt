@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Users\thais\OneDrive\Área de Trabalho\Turma19java\Java\.metadata\.plugins\org.eclipse.jdt.core
+3132313831.index
+827256296.index
+4103412778.index
+2592615974.index
+3247957272.index
+743079513.index
+364735912.index
+1693911205.index
+2791633308.index
+2689192288.index
+2464880308.index
+4132388440.index
